@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(175, 222, 198);
+    background-color: rgb(149, 238, 192);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 3rem, 3rem, 5%, 5%;
     padding: 0.5rem;
@@ -7,7 +7,7 @@ body {
 
 h1 {
     font-size: 2.5rem;
-    color: rgb(220, 176, 124);
+    color: rgb(249, 185, 108);
 }
 
 h2 {
